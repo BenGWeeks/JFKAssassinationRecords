@@ -16,7 +16,7 @@ Also, note that the national archive may continue to add additional files to tha
 
 # Creation
 
-These were downloaded using a chromium extension.
+The PDFs were downloaded using a chromium extension. Using a script, they were then OCR scanned to TXT files.
 
 If you wish to create the text files yourself, create a virtual environment and install required packages:
 
